@@ -1,24 +1,19 @@
-# campeonato-brasileiro
+# Campeonato Brasileiro
+Projeto de uma aplicação Front-End em VueJS que traz informações (fictícias) sobre o campeonato brasileiro.  
+Desenvolvido durante o treinamento para o Hackathon Decola (Edição Luna), da Iteris. 
 
-## Project setup
-```
-npm install
-```
+## Tela 1: Início
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Tela Inicial](./public/tela1.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## ‌Tela 2: Classificação dos clubes
+![Tela de Classificação dos Clubes](./public/tela2.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Lista de tarefas
+- Iniciar o projeto
+- Instalar o [Vuetify](https://vuetifyjs.com)
+- Adicionar o menu
+- Criar tela 1: Início
+- Adicionar rotas com o vue-router
+- Criar tela 2: Classificação dos clubes
+- Ordenar os clubes em ordem decrescente
